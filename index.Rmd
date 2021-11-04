@@ -46,6 +46,3 @@ This is my second tab!
 # This is a new section
 and its great!
 
-
-
-
